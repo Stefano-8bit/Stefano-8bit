@@ -2,9 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,100:00c3ff&height=200&section=header&text=Stefano-8bit&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
 </p>
 
-<h1 align="center">👾 Welcome!</h1>
+<h1 align="center">👾</h1>
 
-## 🛠️ Tech Stack
+<hr />
+
+<h2 align="center">🛠️ Tech Stack</h2>
 
 #### 📚 Languages & Markup
 
@@ -23,16 +25,7 @@
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Stefano-8bit&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Stefano-8bit&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stefano-8bit&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<hr />
 
 <p align="center">
   Coffee ☕
